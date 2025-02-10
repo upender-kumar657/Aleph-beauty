@@ -1,0 +1,56 @@
+
+@media (max-width:320px){
+    
+}
+
+
+
+@media(min-width:321px) and (max-width:375px){
+ 
+    
+}
+@media(min-width:376px) and (max-width:425px){
+   
+    
+   
+    
+}
+@media(min-width:426px) and (max-width:768px){
+   
+   
+  
+}
+@media(min-width:769px) and (max-width:1024px){
+   
+   
+}
+@media(min-width:1025px) and (max-width:1440px){
+     
+    
+}
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.followus-move-img{
+   width: 97%;
+    height: 20rem;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.imgx{
+    height:20rem ;
+    width: 40rem;
+    border: 2px solid black;
+    display: inline-block;
+}
